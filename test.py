@@ -1,4 +1,4 @@
-x = hello
-y = world
+x = 'hello'
+y = ' world'
 z = x + y
 print(z)
